@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi there its leiv👋
+<h4 align="center">
+  <a href="">
+    👤&nbsp;&nbsp;Website
+  </a>&nbsp;&nbsp;·&nbsp;&nbsp;
 
-<!--
-**weinwasabi/weinwasabi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <a href="s">
+    📖&nbsp;&nbsp;Blog
+  </a>&nbsp;&nbsp;·&nbsp;&nbsp;
+  
+  <a href="">
+    💬&nbsp;&nbsp;Contact
+  </a>&nbsp;&nbsp;·&nbsp;&nbsp;
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <a href="">
+    ⭐️&nbsp;&nbsp;Follow
+  </a>
+</h4>
