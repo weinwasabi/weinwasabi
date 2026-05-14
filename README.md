@@ -1,4 +1,4 @@
-## Hi there its leiv👋
+## Hi there its Lou👋
 <h4 align="center">
   <a href="https://itslouportfolio.vercel.app/">
     👤&nbsp;&nbsp;Website
