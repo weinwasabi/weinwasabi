@@ -1,6 +1,6 @@
 ## Hi there its Lou👋
 <h4 align="center">
-  <a href="https://itslouportfolio.vercel.app/">
+  <a href="https://itslouofc.vercel.app/">
     👤&nbsp;&nbsp;Website
   </a>&nbsp;&nbsp;·&nbsp;&nbsp;
 
@@ -12,7 +12,4 @@
     💬&nbsp;&nbsp;Contact
   </a>&nbsp;&nbsp;·&nbsp;&nbsp;
 
-  <a href="">
-    ⭐️&nbsp;&nbsp;Follow
-  </a>
 </h4>
