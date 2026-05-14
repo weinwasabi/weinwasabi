@@ -8,7 +8,7 @@
     📖&nbsp;&nbsp;Blog
   </a>&nbsp;&nbsp;·&nbsp;&nbsp;
   
-  <a href="">
+  <a href="mailto:helou@contact.itslouofc.qzz.io">
     💬&nbsp;&nbsp;Contact
   </a>&nbsp;&nbsp;·&nbsp;&nbsp;
 
