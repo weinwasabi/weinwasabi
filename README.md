@@ -1,6 +1,6 @@
 # 💫 About Me
 
-Hi! I'm its' **Lewin Sunga**,
+Hi! its' **Lewin Sunga**
 
 ---
 
